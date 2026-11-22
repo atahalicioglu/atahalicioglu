@@ -1,8 +1,6 @@
 # Ata Halıcıoğlu
 
-Backend engineer in Istanbul. I build services in Go, Java and Python: authentication, onboarding, the parts of a product nobody sees. I also make my own apps and take them all the way to the App Store.
-
-I like taking something fragile and making it boring.
+Backend and distributed systems. On the side I experiment with image processing, ML models and LLMs, and build my own apps.
 
 ## Things I've made
 

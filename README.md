@@ -13,12 +13,6 @@ I like taking something fragile and making it boring.
 | **[Foursome](https://foursome.info)** | A number duel for two players. |
 | **[Midnight Heist](https://atahalicioglu.github.io/midnight-heist/)** | A 1920s art deco heist match-3 for iPhone, in development. Unity, with the game rules in plain C# so they can be tested without the engine. |
 
-## Background
-
-Fintech backends, RAG products on serverless AWS, industrial IoT services on Kubernetes, and NLP research on dialogue systems.
-
-Koç University, Electrical & Electronics Engineering with a double major in Computer Engineering.
-
 ## Where to find me
 
 [atahalicioglu.com](https://atahalicioglu.com) · [LinkedIn](https://www.linkedin.com/in/atahalicioglu/) · [everything I ship](https://atahalicioglu.github.io/)
